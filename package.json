@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "connect-mongo": "^3.2.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "express-session": "^1.18.0",
+    "generate-password": "^1.7.1",
+    "hbs": "^4.2.0",
+    "mongoose": "^5.7.12",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  },
+  "name": "node_login_signup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
